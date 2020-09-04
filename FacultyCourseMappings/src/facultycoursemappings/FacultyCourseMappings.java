@@ -37,9 +37,9 @@ public class FacultyCourseMappings {
         caseCourses.add("Forensics");
 
         List<String> hootCourses = new ArrayList<>();
-        hootCourses.add("Discreete Math");
-        hootCourses.add("Andriod");
-        hootCourses.add("Andriod");
+        hootCourses.add("Discrete Math");
+        hootCourses.add("Android");
+        hootCourses.add("Android");
         hootCourses.add("ML");
 
         List<String> bellCourses = new ArrayList<>();
